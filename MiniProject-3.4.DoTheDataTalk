@@ -1,0 +1,21 @@
+Take a minute to run through this scenario in your head. You have been hired by a hot startup, and your first assignment is to analyze reactions of people on Twitter to particular events. Your boss booked a meeting with the lead data engineer, cloud architect, and dev ops lead but he can't make it and asks you to make sure you get everything worked out with them to have you project going ASAP. You have 30 minutes to write down what kind of questions you want answered from those key people to make sure you fully understand the data landscape of the company, and how to proceed to start collecting the data so that you can analyze and score a win.
+
+
+Who would you want to talk to? What information would you need? What questions would you ask?
+
+
+Here are a few hints to get you started:
+How do I deploy a scheduled program to pull data from an API in the company's data ecosystem?
+Who is responsible to make sure it is running properly and not erroring out?
+Where can I store the data I pull from this API?
+
+Feedback:
+
+Quesiton to ask:
+
+1. How often will we have to do the analysis? Contineous, at fixed intervals or just once?
+2. Are there existing data set to train from? If yes in what format, count, etc?
+3. How many categories of analysis are required: 2 or more than 2 categories/classes?
+4. Which algorithm and ML architecture to use?
+5. Do we use pre-trained model or train model from scratch?
+6. Will the model be hosted online or offline?
